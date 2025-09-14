@@ -4,9 +4,6 @@
 #include <fstream>
 #include <sstream>
 
-const int ukrAlphabetSize = 33;
-const int engAlphabetSize = 32;
-
 const std::string alphabet[5] = {
     "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "abcdefghijklmnopqrstuvwxyz",
